@@ -10,3 +10,4 @@ extrahiert: Name, Geburtsdatum, Dokumentdatum, Diagnosen, Absender.
   -> Ergebnisse müssen geprüft werden
 
 Start: python extrakt.py test.pdf
+
